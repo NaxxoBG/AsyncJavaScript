@@ -1,0 +1,209 @@
+{
+  "students": [
+    {
+      "id": 240512,
+      "name": "Robert De Niro",
+      "email": [
+        "bis@example.com",
+        "mov@example.org"
+      ],
+      "dateOfBirth": "1995-01-02",
+      "exercisesDone": [
+        "8_2",
+        "8_3",
+        "8_4_1",
+        "8_4_2"
+      ]
+    },
+    {
+      "id": 240513,
+      "name": "Matt Damon",
+      "email": "martian@yahoo.com",
+      "dateOfBirth": "1993-01-29",
+      "exercisesDone": [
+        "8_2",
+        "8_4_1",
+        "8_4_2"
+      ]
+    },
+    {
+      "id": 240514,
+      "name": "Tom Hanks",
+      "email": [
+        "goodGuy@example.com",
+        "wilson@mailer.org"
+      ],
+      "dateOfBirth": "1997-01-06",
+      "exercisesDone": [
+        "8_2",
+        "8_3",
+        "8_4_1"
+      ]
+    },
+    {
+      "id": 240515,
+      "name": "Marlon Brando",
+      "email": [
+        "magnum@mac.com",
+        "jd@example.org"
+      ],
+      "dateOfBirth": "1996-01-10",
+      "exercisesDone": [
+        "8_4_1",
+        "8_4_2"
+      ]
+    },
+    {
+      "id": 240516,
+      "name": "Leonardo DiCaprio",
+      "email": [
+        "oscar@example.com",
+        "bear@example.org"
+      ],
+      "dateOfBirth": "1993-01-18",
+      "exercisesDone": [
+        "8_2",
+        "8_3",
+        "8_4_1",
+        "8_4_2"
+      ]
+    },
+    {
+      "id": 240517,
+      "name": "Humphrey Bogart",
+      "email": [
+        "mailstorm@example.com",
+        "social@example.org"
+      ],
+      "dateOfBirth": "1990-01-25",
+      "exercisesDone": [
+        "8_2",
+        "8_3",
+        "8_4_2"
+      ]
+    },
+    {
+      "id": 240518,
+      "name": "Al Pacino",
+      "email": [
+        "mob@example.com",
+        "inquiry@example.org"
+      ],
+      "dateOfBirth": "1992-05-05",
+      "exercisesDone": [
+        "8_2",
+        "8_3",
+        "8_4_1"
+      ]
+    },
+    {
+      "id": 240519,
+      "name": "Denzel Washington",
+      "email": [
+        "flight@example.com",
+        "russotto@verizon.net"
+      ],
+      "dateOfBirth": "1995-02-27",
+      "exercisesDone": [
+        "8_3"
+      ]
+    },
+    {
+      "name": "Peshko Georgiev",
+      "email": [
+        "kokojumbo@mail.bg"
+      ],
+      "dateOfBirth": "1990-02-17",
+      "exercisesDone": [
+        "8_3",
+        "8_4"
+      ],
+      "id": 240520
+    },
+    {
+      "name": "Joe Pesci",
+      "email": [
+        "goodfellas@gmail.com"
+      ],
+      "dateOfBirth": "1943-02-09",
+      "exercisesDone": [
+        "8_1",
+        "8_4_1"
+      ],
+      "id": 240521
+    },
+    {
+      "name": "Peter Parker",
+      "email": [
+        "friendly@spiderman.com",
+        "peter@oscorp.com"
+      ],
+      "dateOfBirth": "1993-02-18",
+      "exercisesDone": [
+        "9",
+        "9_1",
+        "9_2",
+        "9_3",
+        "9_4",
+        "8_3"
+      ],
+      "id": 240522
+    },
+    {
+      "name": "Bruce Wayne",
+      "email": [
+        "batman@gmail.com"
+      ],
+      "dateOfBirth": "1973-02-12",
+      "exercisesDone": [
+        "9",
+        "10",
+        "11"
+      ],
+      "id": 240523
+    },
+    {
+      "name": "Jackie Chan",
+      "email": [
+        "policestory@movie.com",
+        "rushhour@movie.com"
+      ],
+      "dateOfBirth": "1952-10-17",
+      "exercisesDone": [
+        "2",
+        "9",
+        "10",
+        "4",
+        "10_2"
+      ],
+      "id": 240526
+    },
+    {
+      "name": "Tony Stark",
+      "email": [
+        "ironman@marvel.com"
+      ],
+      "dateOfBirth": "1970-12-12",
+      "exercisesDone": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "id": 240527
+    },
+    {
+      "name": "Bruce",
+      "email": [
+        "Banner"
+      ],
+      "dateOfBirth": "1970-10-22",
+      "exercisesDone": [
+        "9",
+        "10",
+        "11"
+      ],
+      "id": 240528
+    }
+  ]
+}

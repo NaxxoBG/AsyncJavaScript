@@ -1,6 +1,6 @@
-# ex8
+# Asynchronous JS
 
-> Exercise 8.1, 8.2, 8.3 and 8.4
+> A single-page application showing examples of different techniques for writing asynchronous code in JS.
 
 ## Build Setup
 
